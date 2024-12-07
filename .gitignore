@@ -1,3 +1,4 @@
 .idea
 *.sqlite3
 venv
+gestion_rh/__pycache__/settings.cpython-310.pyc
